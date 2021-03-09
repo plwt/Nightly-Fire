@@ -1,0 +1,43 @@
+{
+  "manifest_version": 2,
+  "version": "0.1",
+  "name": "Nightly Fire",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.jpg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(225, 234, 239, 0)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(32, 32, 35)",
+      "tab_background_text": "rgb(0, 200, 215)",
+      "toolbar_field": "rgb(32, 32, 35)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(0, 200, 215)",
+      "popup": "rgb(32, 32, 35)",
+      "popup_text": "rgb(255, 255, 255)",
+      "icons": "rgb(255, 255, 255)",
+      "ntp_background": "rgb(32, 32, 35)",
+      "ntp_text": "rgb(255, 255, 255)",
+      "tab_background_separator": "rgba(32, 32, 35, 0)",
+      "tab_selected": "rgba(255, 255, 255, 0)",
+      "toolbar_bottom_separator": "rgba(225, 234, 239, 0)",
+      "toolbar_field_border_focus": "rgba(32, 32, 35, 0)",
+      "toolbar_field_border": "rgba(0, 200, 215, 0)",
+      "toolbar_field_focus": "rgba(32, 32, 35, 0)",
+      "toolbar_field_separator": "rgba(0, 200, 215, 0)",
+      "toolbar_top_separator": "rgba(255, 255, 255, 0)",
+      "tab_loading": "rgb(0, 200, 215)"
+    }
+  }
+}
